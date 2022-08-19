@@ -1,6 +1,3 @@
-from operator import truediv
-import time
-
 caveMatrix = [
     [1,1,6,3,7,5,1,7,4,2],
     [1,3,8,1,3,7,3,6,7,2],
